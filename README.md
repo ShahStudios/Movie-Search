@@ -8,17 +8,14 @@ Movie search app made using React.
 - React Hooks
 - React Functional | Class | Reusable Components 
 
-### To view
+### To view [coming soon]
 
 Link to project: [link here]
 
-### Demo
-
-![movie search demo]()
+### Demo [coming soon]
 
 ### Technologies
 
 - HTML
 - CSS
 - JavaScript
-- API
