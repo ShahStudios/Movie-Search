@@ -8,14 +8,17 @@ Movie search app made using React.
 - React Hooks
 - React Functional | Class | Reusable Components 
 
-### To view [coming soon]
+### To view
 
-Link to project: [link here]
+Link to project: https://react-movie-search-shah.netlify.app/
 
-### Demo [coming soon]
+### Demo
+![react-movie-search](https://media.giphy.com/media/kf89PtSttPDeHJ2gOe/giphy.gif)
+
 
 ### Technologies
 
 - HTML
 - CSS
 - JavaScript
+- API
