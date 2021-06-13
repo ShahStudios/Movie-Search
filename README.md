@@ -1,6 +1,6 @@
 ### General info
 
-Movie search app made using React.
+Movie search app created using React.
 
 #### Key Concepts
 
